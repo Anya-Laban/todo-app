@@ -1,9 +1,20 @@
-# React TypeScript Starter Pack
+# Todo App
+React-based Todo app with API integration:
 
-To use this template click `Use this template`
+- Manage Tasks: Add, delete, and rename todos.
+- Toggle Status: Mark individual or all todos as complete.
+- Loading & Errors: Loaders for API calls, error notifications.
+- User-Friendly UI: Clean interface with smooth animations.
+- Real-Time Updates: Instant UI changes on successful API interactions
 
-### Available Scripts
+## Demo links
+- [DEMO LINK](https://Anya-Laban.github.io/todo-app/)
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Technologies that were used
+- React
+- JavaScript
+- TypeScript
+- Fetch API
+- HTML markup
+- CSS(flexbox, grid, BEM methodology)
+- SSAS preprocessor
